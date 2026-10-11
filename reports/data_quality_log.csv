@@ -1,0 +1,14 @@
+rule,rows_affected,action
+exact_duplicates,244,dropped
+duplicate_order_id,181,kept first occurrence
+region_labels,1306,mapped variants to 10 canonical UK regions
+carrier_labels,2631,mapped to 3 canonical carriers
+status_casing,1587,title-cased
+uk_date_format:order_datetime,2635,parsed dd/mm/yyyy explicitly (avoids US month swap)
+uk_date_format:dispatch_datetime,2553,parsed dd/mm/yyyy explicitly (avoids US month swap)
+uk_date_format:delivered_datetime,2608,parsed dd/mm/yyyy explicitly (avoids US month swap)
+invalid_order_value,25,"set to NaN, excluded from revenue metrics"
+delivered_before_dispatch,155,delivery timestamp nulled (scanner clock error)
+missing_delivery_scan,908,kept; excluded from on-time metrics
+orphan_order_lines,0,dropped
+customer_region_missing,367,back-filled from the customer's order region

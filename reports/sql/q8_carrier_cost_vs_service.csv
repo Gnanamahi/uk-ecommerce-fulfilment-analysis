@@ -1,0 +1,4 @@
+carrier,rate_per_parcel,parcels,carrier_spend_gbp,late_pct,avg_order_value
+BudgetPost,2.85,12103,34494.0,21.6,144.69
+ParcelLink,3.6,2711,9760.0,11.2,146.88
+SwiftParcel,4.1,3689,15125.0,7.4,146.77

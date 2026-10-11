@@ -1,0 +1,31 @@
+carrier,region,is_remote,orders,late_pct
+BudgetPost,Wales,1,584,30.8
+BudgetPost,Scotland,1,1121,29.5
+BudgetPost,Northern Ireland,1,366,28.1
+BudgetPost,South East,0,1797,20.8
+BudgetPost,South West,0,1038,20.8
+BudgetPost,North West,0,1478,20.3
+BudgetPost,London,0,1983,20.0
+BudgetPost,North East,0,748,19.5
+BudgetPost,Midlands,0,1830,19.4
+BudgetPost,Yorkshire,0,1158,17.9
+ParcelLink,Northern Ireland,1,81,17.3
+ParcelLink,Scotland,1,249,14.1
+ParcelLink,North West,0,310,13.2
+ParcelLink,Wales,1,123,13.0
+ParcelLink,South East,0,426,12.2
+ParcelLink,London,0,490,10.4
+SwiftParcel,South West,0,342,10.2
+ParcelLink,Midlands,0,387,10.1
+ParcelLink,Yorkshire,0,231,9.5
+SwiftParcel,Scotland,1,326,9.2
+SwiftParcel,North East,0,194,8.8
+ParcelLink,South West,0,245,8.6
+SwiftParcel,Wales,1,180,8.3
+SwiftParcel,Northern Ireland,1,100,8.0
+SwiftParcel,Midlands,0,555,7.9
+SwiftParcel,Yorkshire,0,340,7.4
+SwiftParcel,London,0,670,7.2
+ParcelLink,North East,0,169,7.1
+SwiftParcel,South East,0,534,5.2
+SwiftParcel,North West,0,448,5.1

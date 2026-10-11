@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+statsmodels>=0.14
+patsy>=0.5
+plotly>=5.18
+pytest>=7.0
+# optional: static PNG export of charts (needs Google Chrome installed)
+kaleido>=1.0

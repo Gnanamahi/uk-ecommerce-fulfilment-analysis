@@ -1,0 +1,6 @@
+category,orders,backorder_line_pct,late_pct_backordered,late_pct_in_stock
+Furniture,14969,6.51,89.8,8.0
+Lighting,10918,3.96,89.1,8.2
+Bedding,14535,3.04,90.0,8.1
+Kitchen,16722,2.73,90.0,8.1
+Decor,21509,2.34,88.8,8.4
